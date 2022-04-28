@@ -1,3 +1,4 @@
 [submodule "firmware"]
 	path = firmware
 	url = git@github.com:BEAMRobotics/beam_camera_sync.git
+	branch = low-bw-slam
