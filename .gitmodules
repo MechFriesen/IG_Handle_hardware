@@ -2,3 +2,6 @@
 	path = firmware
 	url = git@github.com:BEAMRobotics/beam_camera_sync.git
 	branch = low-bw-slam
+[submodule "ECAD"]
+	path = ECAD
+	url = git@github.com:BEAMRobotics/Handle_ECAD.git
